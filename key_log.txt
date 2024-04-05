@@ -1,0 +1,1 @@
+Key.backspace'h''i'Key.space's''o''w''m''i''y''a'Key.cmdKey.print_screenKey.cmdKey.print_screen
